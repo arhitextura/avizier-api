@@ -1,7 +1,3 @@
-# SQL Usage  
+# Avizier api.  
 
-## Enunturi afirmative  
-
-1. dsa  
-
-2. 
+Api pentru avizier-online.ro
